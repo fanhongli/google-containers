@@ -1,1 +1,0 @@
-from gcr.io/google-containers/pause-amd64:v1.7.1
